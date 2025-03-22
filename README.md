@@ -7,6 +7,7 @@ This project is a React-powered frontend designed to deliver an intuitive and in
 This project is part of a larger system that includes:
 - [Android Frontend Repository](https://github.com/MayaRosen/facebook-like-android)
 - [Backend Server Repository](https://github.com/MayaRosen/facebook-like-server)
+- [Bloomfilter Service](https://github.com/MayaRosen/facebook-like-bloomfilter)
 
 Together, these repositories create a fully functional system for web and mobile platforms.
 
