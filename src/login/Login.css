@@ -1,0 +1,28 @@
+h1{
+    color:rgb(68, 81, 197);
+    font-size: 150px;
+}
+
+h3{
+    font-size: 40px
+}
+.form-control{
+    padding-block: 2px;
+    width: 75%;
+}
+
+.btn btn-primary{
+    width: 200px;
+}
+
+/* Light Mode */
+body .light-mode {
+    background-color: #f8f9fa;
+    color: #000;
+}
+
+/* Dark Mode */
+.dark-mode body{
+    background-color: #343a40;
+    color: #fff;
+}
